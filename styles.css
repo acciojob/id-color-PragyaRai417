@@ -1,1 +1,36 @@
-/*  your css code here. If applicable */
+ <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+        #skills, #projects {
+            margin-top: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #f4f4f4;
+            margin: 5px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        #yellow {
+            background-color: yellow;
+            border: 1px solid green;
+        }
+        #red {
+            background-color: red;
+            border: 1px solid black;
+        }
+        #green {
+            background-color: green;
+            border: 1px solid yellow;
+        }
+    </style>
